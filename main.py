@@ -144,7 +144,7 @@ async def analyze_liunian(request: dict):
         "luckyMonths": [3, 6, 9],
         "attentionMonths": [2, 7],
         "suggestions": ["把握机遇，稳健前行", "保持积极心态", "注意身心健康"]
-    }
+        }
 
 
 @app.post("/v1/daily/yiji")
