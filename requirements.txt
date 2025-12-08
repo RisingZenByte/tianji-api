@@ -1,6 +1,4 @@
-# 云函数依赖（精简版）
-fastapi==0.104.1
-mangum==0.17.0
-zhipuai==2.0.1
-pydantic==2.5.0
-
+fastapi
+mangum
+zhipuai
+pydantic
